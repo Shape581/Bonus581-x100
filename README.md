@@ -6,7 +6,7 @@ Bonus581 est un plugin Nova-Life permettant de mettre en valeur les niveau. Ce p
 
 # :wrench: Fonctionnalité
 
-Tout les joueurs reçoivent un bonus en fonction de leur niveau, ils reçoivent leur niveau multiplier par 10, donc exemple niveau 8 = 80€
+Tout les joueurs reçoivent un bonus en fonction de leur niveau, ils reçoivent leur niveau multiplier par 100, donc exemple niveau 8 = 800€
 
 *Ce plugin m'envoie un log discord au démarrage du serveur pour que je puissent savoir quel serveur utilise mon plugin (ce log comporte le nom du fichier et le nom public du serveur)*
 
